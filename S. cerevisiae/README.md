@@ -1,1 +1,1 @@
-The original processed folder contains a total of 899 protein graphs. We have provided some protein graphs in the processed folder created here. To download the original processed folder use the link: 
+The original processed folder contains a total of 899 protein graphs. We have provided some protein graphs in the processed folder created here. To download the original processed folder use the link: https://drive.google.com/drive/folders/1lvXbZcsYcFQyt5FBllCOZIQnrAPaR_y2?usp=sharing
