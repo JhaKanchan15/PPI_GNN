@@ -1,3 +1,5 @@
+# Install bio_embeddings using the command: pip install bio-embeddings[all]
+
 from bio_embeddings.embed import ProtTransBertBFDEmbedder,SeqVecEmbedder
 import numpy as np
 import torch 
