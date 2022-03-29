@@ -5,7 +5,7 @@ In order to replicate the results mentioned in paper, please follow the followin
 
 
 The steps to predicting protein interactions on a new dataset are:
-  1. First, get the node features from protein sequences using the SeqVec method (seqvec_embedding.py) and then build the protein graph.
+  1. First, get the node features from protein sequences using the SeqVec method (seqvec_embedding.py) and then build the protein graph (proteins_to_graphs.py).
   2. Next, use the command "python data_prepare.py" to get input features for the model.
   3. Then, use the command "python train.py" to train the model.
   4. Use the command: "python test.py" to evaluate the trained model on unseen data (test set).
