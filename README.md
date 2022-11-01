@@ -9,3 +9,6 @@ The steps to predicting protein interactions on a new dataset are:
   2. Next, use the command "python data_prepare.py" to get input features for the model.
   3. Then, use the command "python train.py" to train the model.
   4. Use the command: "python test.py" to evaluate the trained model on unseen data (test set).
+
+To create the ppi_env environment, run:
+$ conda env create -f ppi_env.yml
